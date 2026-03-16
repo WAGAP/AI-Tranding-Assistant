@@ -9,3 +9,11 @@ A simple AI tool that analyses crypto price data and generates trading signals
 
 ##Purpose
 This project is buit for learning and experimenting with AI tools in cryto trading.
+
+##Future Improvements
+-Add more technical indicators
+-Intergrate real-time market data
+-Improve AI signal accuracy
+
+##Disclamer
+This tool for educational purposes only.
